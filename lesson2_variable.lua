@@ -8,3 +8,29 @@ print("******变量******")
 -- 表 table
 -- 数据结构 userdata
 -- 协同程序 thread
+
+-- nil
+print("******nil******")
+a = nil
+print(a)
+print(type(a))
+
+-- number 所有的数值都是number
+print("******number******")
+a = 1
+print(a)
+print(type(a))
+
+-- string
+print("******string******")
+a = "hello"
+a = 'world'
+print(a)
+print(type(a))
+
+-- boolean
+print("******boolean******")
+a = true
+a = false
+print(a)
+print(type(a))
