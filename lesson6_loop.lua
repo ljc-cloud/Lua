@@ -21,3 +21,8 @@ print("******for循环******")
 for i = 1, 5 do
     print(i)
 end
+
+-- i = 1, 10, 2  2为步长，就是每次循环i添加的步长
+for i = 1, 10, 2 do
+        print(i)
+end
