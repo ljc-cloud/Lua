@@ -10,6 +10,7 @@ print("******变量******")
 -- 协同程序 thread
 
 -- nil
+
 print("******nil******")
 a = nil
 print(a)
